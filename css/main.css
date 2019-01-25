@@ -1,0 +1,22 @@
+* {
+  background-color: gray;
+}
+
+h1 {
+  font-size: 75px;
+  color: blue;
+}
+
+h2  {
+  font-size: 35px;
+  color: black;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+  color: black;
+}
